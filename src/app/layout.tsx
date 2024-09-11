@@ -40,7 +40,7 @@ export default function RootLayout({
           <header className="sticky top-0 flex items-center justify-between border-b px-8 py-2 shadow-sm bg-background">
             <div className="flex items-center justify-center">
               <FileText className="mr-2 h-8 w-8" />
-              <h3>File Compare</h3>
+              <h3>File Comparison</h3>
             </div>
             <ThemeToggle />
           </header>

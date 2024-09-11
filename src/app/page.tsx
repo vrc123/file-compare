@@ -20,7 +20,7 @@ export default function Page() {
     <main className="flex min-h-screen items-center justify-center p-8">
       <Card className="w-full max-w-lg">
         <CardHeader>
-          <CardTitle>File compare</CardTitle>
+          <CardTitle>File comparison</CardTitle>
         </CardHeader>
         <CardContent className="flex flex-col gap-4">
           <FileInput
